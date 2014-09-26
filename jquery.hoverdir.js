@@ -14,7 +14,8 @@
  * Removed CSS3 transitions and Modernizr requirements. Applied CSS
  * classes instead for better flexibility and controlability via CSS.
  *
- * @link  https://github.com/webmandesign/jquery.hoverdir
+ * @link     https://github.com/webmandesign/jquery.hoverdir
+ * @version  1.0 (modified)
  */
 
 ( function( $, window, undefined ) {
