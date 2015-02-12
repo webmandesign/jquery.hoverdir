@@ -14,10 +14,12 @@ In case of mouse cursor leaving the item, the class of the leaving direction is 
 
 ## Usage
 
-```
-if ( jQuery().hoverdir ) {
-	jQuery( '.hoverdir-container .hoverdir-item' ).each( function() {
-			jQuery( this ).hoverdir();
-		} );
-} // /hoverdir
-```
+	if ( jQuery().hoverdir ) {
+		jQuery( '.hoverdir-container .hoverdir-item' ).each( function() {
+				jQuery( this ).hoverdir();
+			} );
+	} // /hoverdir
+
+## License
+
+Licensed under the MIT license.
