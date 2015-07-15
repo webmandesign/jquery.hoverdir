@@ -1,6 +1,6 @@
-## jquery.hoverdir.js
+## jQuery.Hoverdir
 
-**This is a modified version of jquery.hoverdir.js (v1.1.1) by http://www.codrops.com (copyright 2012, Codrops, licensed under the MIT license, http://www.opensource.org/licenses/mit-license.php).**
+**This is a modified version of [jquery.hoverdir.js by www.codrops.com](https://github.com/codrops/DirectionAwareHoverEffect) (copyright 2012, Codrops, licensed under the MIT license).**
 
 ## Modifications
 
@@ -8,7 +8,7 @@ Removed CSS3 transitions and Modernizr requirements. Applied CSS classes instead
 
 ## Description
 
-This script watches the direction from where the mouse cursor came hovering the item. In these cases the class of `in-top`, `in-right`, `in-bottom` or `in-left` is added onto the hoverd item.
+This script watches the direction from where the mouse cursor came hovering the item. In these cases the class of `in-top`, `in-right`, `in-bottom` or `in-left` is added onto the hovered item.
 
 In case of mouse cursor leaving the item, the class of the leaving direction is applied on the item (`out-top`, `out-right`, `out-bottom` or `out-left`).
 
@@ -16,8 +16,8 @@ In case of mouse cursor leaving the item, the class of the leaving direction is 
 
 	if ( jQuery().hoverdir ) {
 		jQuery( '.hoverdir-container .hoverdir-item' ).each( function() {
-				jQuery( this ).hoverdir();
-			} );
+			jQuery( this ).hoverdir();
+		} );
 	} // /hoverdir
 
 ## License

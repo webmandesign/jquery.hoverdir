@@ -1,0 +1,17 @@
+{
+	"name": "jquery.hoverdir",
+	"description": "jquery.hoverdir",
+	"keywords": [],
+	"homepage": "https://github.com/webmandesign/jquery.hoverdir",
+	"dependencies": {},
+	"devDependencies": {},
+	"license": ["MIT"],
+	"main": [
+		"./jquery.hoverdir.js",
+		"./jquery.hoverdir.min.js"
+	],
+	"ignore": [
+		"*.json",
+		"*.md"
+	]
+}
