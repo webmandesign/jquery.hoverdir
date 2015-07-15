@@ -1,6 +1,6 @@
 ## jQuery.Hoverdir
 
-**This is a modified version of [jquery.hoverdir.js by www.codrops.com](https://github.com/codrops/DirectionAwareHoverEffect) (copyright 2012, Codrops, licensed under the MIT license).**
+**This is a modified version of [jquery.hoverdir.js](https://github.com/codrops/DirectionAwareHoverEffect) by www.codrops.com (copyright 2012, Codrops, licensed under the MIT license).**
 
 ## Modifications
 
