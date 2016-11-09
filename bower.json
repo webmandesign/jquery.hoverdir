@@ -1,17 +1,18 @@
 {
 	"name": "jquery.hoverdir",
-	"version": "1.1",
+	"version": "1.1.2",
 	"homepage": "https://github.com/webmandesign/jquery.hoverdir",
 	"authors": [
 		"Oliver Juhas, www.webmandesign.eu",
 		"Codrops, www.codrops.com"
 	],
-	"description": "Watches the direction of mouse cursor entering and leaving the item",
+	"description": "Watches the direction of mouse cursor entering and leaving the item, applying the proper directional class on hovered element.",
 	"keywords": [
 		"cursor",
 		"hover",
 		"direction",
-		"animation"
+		"animation",
+		"class"
 	],
 	"license": "MIT",
 	"main": [
